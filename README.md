@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acronaut1
 - 👀 I’m interested in Spatial Computing, Data-Visualization, Video Game Design/Development
-- 🌱 I’m currently learning Full-Stack (Web), Unreal Engine
+- 🌱 I’m exploring opportunities on Spatial-Computing, HyperReality/Metaverse, etc..
 - 💞️ I’m looking to collaborate on: Video Game Design/Development, & Interactive Design (IxD)
 - 📫 How to reach me tbd soon..
 
