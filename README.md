@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @acronaut1
+- 👋 Hi, I’m @acronaut1  'The Artist that could read code..'
 - 👀 I’m interested in Spatial Computing, Data-Visualization, Video Game Design/Development
 - 🌱 I’m exploring opportunities on AI-IxD, Spatial-Computing, HyperReality/'Metaverse', etc..
 - 💞️ I’m looking to collaborate on: Video Game Design/Development, & Interactive Design (IxD)
